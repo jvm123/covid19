@@ -2,6 +2,8 @@
 Covid-19 jupyter notebook that calculates covid19 trends via regression and produces some neat output graphs, as seen in this [German language Covid-19 case number analysis](https://borsche.de/page/bergamo#ch3) from March 29.
 
 ## How to install and run
+
+Install via
 ```bash
 git clone https://github.com/jvm123/covid19
 cd covid19
@@ -15,10 +17,11 @@ To run the command line version that exports graphs based on the newest [Johns H
 python3 covid19_live.py
 ```
 
-To open a jupyter notebook:
+To open the jupyter notebook, run:
 ```bash
 jupyter notebook
 ```
+and select the covid19_live.ipynb file.
 
 After modifying the jupyter notebook, you can derive an updated command line version via
 ```bash
