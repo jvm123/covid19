@@ -1,5 +1,5 @@
 # covid19
-Covid-19 jupyter notebook that calculates covid19 trends via regression and produces some neat output graphs, as seen in this [German language Covid-19 case number analysis](https://borsche.de/page/bergamo#ch3) from March 29.
+Covid-19 jupyter notebook that calculates covid19 trends via regression and produces some neat output graphs.
 
 ## How to install and run
 
